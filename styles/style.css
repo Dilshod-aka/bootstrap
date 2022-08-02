@@ -1,0 +1,79 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(12, 55, 77);
+}
+img
+{
+    width: 60px;
+    height: 60px;
+    border: 2px solid white;
+    margin: 10px 10px;
+    background-color: rgb(4, 25, 35);
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+h1
+{
+    text-align: center;
+    align-items: center;
+    margin: 100px 10px;
+    color: #fff;
+}
+.row
+{
+    margin: 150px 20px;
+}
+.card
+{
+    background-color: rgb(3, 33, 48);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 20px;
+}
+.main-text
+{
+   background-color: rgb(3, 33, 48);
+   align-items: center;
+   text-align: center;
+}
+.card .main-text h2
+{
+    background-color: rgb(3, 33, 48);
+    color: rgb(9, 69, 82);
+    font-size: 20px;
+}
+.card .main-text p
+{
+    background-color: rgb(3, 33, 48);
+    color: #fff;
+    font-size: 16px;
+    font-style: italic;
+}
+.socials
+{
+    color: #ff80ff;
+    background-color: rgb(3, 33, 48);
+    font-size: 40px;
+    cursor: pointer;
+   
+}
+.socials:hover
+{
+    color: rgb(9, 69, 82);
+    background-color: rgb(3, 33, 48);
+    font-size: 40px;
+    cursor: pointer;
+   
+}
+.fa-brands
+{
+    color: #fff;
+    font-size: 20px;
+}
